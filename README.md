@@ -1,24 +1,6 @@
-# coach-web-app
 
-## Project setup
-```
-npm install
-```
+#### Coach Web App
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+This is a web app for users to find coaches/teaches to teach them.
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Website built purely with Vue js
